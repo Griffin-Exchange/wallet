@@ -1,6 +1,6 @@
 export default {
   defaultAssets: {
-    mainnet: ['BTC', 'ETH', 'DAI', 'USDC', 'USDT', 'WBTC', 'UNI'],
+    mainnet: ['GFIN', 'HKMT', 'DAI', 'USDC', 'USDT', 'WBTC', 'SUSD'],
     testnet: ['BTC', 'ETH', 'DAI']
   },
   agentEndpoints: {
